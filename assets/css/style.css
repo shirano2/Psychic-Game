@@ -25,7 +25,7 @@ h1 {
 }
 @media screen and (max-width:640px)  {
     body{
-        background : url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2099574.jpg") no-repeat;
+        background : url("../images/background2.jpg") no-repeat;
         background-size:100%;
     }
     .wrapper {
