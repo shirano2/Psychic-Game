@@ -10,4 +10,4 @@
 ##Good luck.
 
 
-##This is made by Minseok Choi (https://github.com/shirano2)
+##This is made by Minseok Choi (https://github.com/shirano2).
