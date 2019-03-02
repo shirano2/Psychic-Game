@@ -1,0 +1,25 @@
+*{
+    color:#777777;
+    font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    line-height:150%;
+    font-weight:400;
+}
+body{
+    margin : 0;
+    padding : 0;
+    background : url("../images/background.png") no-repeat;
+    background-size:100%;
+}
+.wrapper {
+    width:70%;
+    margin : 0 auto;
+    margin-top : 15%;
+}
+h1 {
+    font-size:28px;
+    font-weight:600;
+}
+#wrong {
+    color:red;
+    font-weight: 1000;
+}
