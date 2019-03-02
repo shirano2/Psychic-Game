@@ -4,7 +4,7 @@
 ##This game is simple. If you press a correct alphabet, then you win.
 
 
-##But if you didn't until count is zero, then you loose.
+##But if you didn't until count is zero, then you lose.
 
 
 ##Good luck.
