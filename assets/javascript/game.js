@@ -23,7 +23,6 @@
      document.getElementById("win").textContent=win;
      document.getElementById("lose").textContent=lose;
      document.getElementById("count").textContent=count;
-     document.getElementById("count").textContent=count;
      document.getElementById("guess").textContent=userChoose;
  }
 
