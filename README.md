@@ -13,7 +13,7 @@ https://shirano2.github.io/Psychic-Game/
 
 * HTML5
 * CSS3
-* jQuery
+* JQuery
 * Javascript
 
 
