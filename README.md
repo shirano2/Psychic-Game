@@ -1,13 +1,21 @@
 # Psychic-Game
 
+This game is simple. If you press a correct alphabet, then you will win.
 
-##This game is simple. If you press a correct alphabet, then you win.
-
-
-##But if you didn't until count is zero, then you lose.
+But if not, until count is zero, then you will lose.
 
 
-##Good luck.
+## Site
+https://shirano2.github.io/Psychic-Game/
 
 
-##This is made by Minseok Choi (https://github.com/shirano2).
+### Technologies Used
+
+* HTML5
+* CSS3
+* jQuery
+* Javascript
+
+
+### Creator
+This is made by Minseok Choi (https://github.com/shirano2)
